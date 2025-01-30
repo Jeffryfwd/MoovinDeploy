@@ -1,8 +1,0 @@
-{
- 
-    "routes": [
-      {
-        "src": "/api/(.*)",
-        "destination": "/api/server.js"
-      }]
-  }
